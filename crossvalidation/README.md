@@ -26,7 +26,7 @@ következtetés:<br />
 LOGREG a LogReg.predict_proba(X_test) függvény alkalmazásával: 03_wmd_logreg_probability.py<br />
 A train és valid data ugyanaz, mint a korábbiaknál.<br />
 Visszaad egy listát, ami tartalmazza a már felvett pontok szerinti osztályozási valószínűségeket.<br />
-Így nem függetlenül döntünk az osztályozásról, hanem ahol a 2 mondat közül nagyobb valószínűséget kapunk a helyes befejezésre!<br />
+Így nem függetlenül döntünk az osztályozásról, hanem ahol a 2 mondat közül megkapjuk, melyik valószínűbb a helyes befejezésre!<br />
 Az előzőekhez képest duplázódott a pontosság, de így sem valami jó.<br />
 A fals negatív viszont kb itt is ugyan olyan.<br />
 Accuracy: 0.4739583333333333<br />
