@@ -21,3 +21,14 @@ Fals negativ 0 osztalyozas: 0.28125<br />
 következtetés:<br />
 -nagyobb részben probléma az, hogy nem tituláljuk befejezésnek az adott befejezést<br />
 -ez abból következik, hogy az osztályozás nem páronként diszjunkt, így lehet 0 0 és 1 1 értékelésünk is<br />
+<br/>
+<br/>
+VALÓSZÍNŰSÉG ALAPÚ logreg a LogReg.predict_proba(X_test) függvény alkalmazásával:<br />
+A train és valid data ugyanaz, mint a korábbiaknál.<br />
+Visszaad egy listát, ami tartalmazza a már felvett pontok szerinti osztályozási valószínűségeket.<br />
+Így nem függetlenül döntünk az osztályozásról, hanem ahol a 2 mondat közül nagyobb valószínűséget kapunk a helyes befejezésre!<br />
+Az előzőekhez képest duplázódott a pontosság, de így sem valami jó.<br />
+A fals negatív viszont kb itt is ugyan olyan.<br />
+Accuracy: 0.4739583333333333<br />
+False Positive: 0.2526041666666667<br />
+False Negative: 0.2734375<br />
