@@ -23,7 +23,7 @@ következtetés:<br />
 -ez abból következik, hogy az osztályozás nem páronként diszjunkt, így lehet 0 0 és 1 1 értékelésünk is<br />
 <br/>
 <br/>
-VALÓSZÍNŰSÉG ALAPÚ logreg a LogReg.predict_proba(X_test) függvény alkalmazásával: 03_wmd_logreg_probability.py<br />
+LOGREG a LogReg.predict_proba(X_test) függvény alkalmazásával: 03_wmd_logreg_probability.py<br />
 A train és valid data ugyanaz, mint a korábbiaknál.<br />
 Visszaad egy listát, ami tartalmazza a már felvett pontok szerinti osztályozási valószínűségeket.<br />
 Így nem függetlenül döntünk az osztályozásról, hanem ahol a 2 mondat közül nagyobb valószínűséget kapunk a helyes befejezésre!<br />
