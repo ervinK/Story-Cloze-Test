@@ -31,4 +31,9 @@ Az előzőekhez képest duplázódott a pontosság, de így sem valami jó.<br /
 A fals negatív viszont kb itt is ugyan olyan.<br />
 Accuracy: 0.4739583333333333<br />
 False Positive: 0.2526041666666667<br />
-False Negative: 0.2734375<br />
+False Negative: 0.2734375<br /><br /><br /><br />
+A wmd-s csv-ket meghatározó converterben egyazon modellel taníttattam be a validatiön és a teszt adatokat, így javult a pontosság:<br />
+
+Accuracy: 0.5078534031413613<br />
+False Positive: 0.23821989528795812<br />
+False Negative: 0.25392670157068065<br />
