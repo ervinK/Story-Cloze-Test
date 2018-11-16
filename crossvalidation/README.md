@@ -39,6 +39,6 @@ False Positive: 0.23821989528795812<br />
 False Negative: 0.25392670157068065<br />
 <br/><br/><br/>
 Nem a feladathoz tartozo train data-n, hanem google-s keyedvectoron tanulva:
-Accuracy: 0.5390625
-False Positive: 0.24739583333333334
-False Negative: 0.21354166666666666
+Accuracy: 0.5390625<br/>
+False Positive: 0.24739583333333334<br/>
+False Negative: 0.21354166666666666<br/>
