@@ -1,7 +1,8 @@
 Osztályozzuk a mondatokat: befejezes 1, nem befejezes 0.<br />
 A model tanításához az eredeti train data-t úgy alakítottam át, hogy <br />
 egyenlo aranyban legyenek az 1, 2, 3, 4 mondatok és a befejezesek, mivel <br />
-ennélkül nagyon elhúzta a kiértékelést a 4x annyi 0 osztályba tartozó mondat.<br />
+ennélkül nagyon elrontotta a kiértékelést a 4x annyi 0 osztályba tartozó mondat.<br />
+Tehát ha elérte a befejezések számát az 1,2,3,4 mondatok száma, akkor már csak befejezés kerül a feldolgozott train data-ba.<br />
 Megpróbáltam a tanítást w2v embeddinggel is a tanítást, de hosszas próbálkozások után<br />
 inkább a példakódban is feltűntetett BOW mellett tettem le a voksom.<br />
 A szovegek atesnek az alapvető filterezéseken, majd ezután készül belőlük egy BOW reprezentáció.<br />
