@@ -1,0 +1,51 @@
+id,noending_sentence,ending_sentence,noending_similarity,ending_similarity
+0,"['joined', 'gang']",['happy'],262.1588506102562,280.4567962884903
+1,"['laverne', 'doesnt', 'go', 'friends', 'party']","['brownies', 'delicious', 'laverne', 'eats', 'two']",208.29158568382263,178.04062819480896
+2,"['sarah', 'decided', 'move', 'europe']","['sarah', 'decided', 'preferred', 'home', 'europe']",208.60641771554947,191.3800167441368
+3,"['gina', 'gave', 'cookies', 'away', 'church']","['gina', 'liked', 'cookies', 'much', 'ate', 'one', 'sitting']",210.52824276685715,185.42116057872772
+4,"['ashamed', 'performance']","['proud', 'performance']",213.94187927246094,173.4012086391449
+5,"['next', 'day', 'gave', 'man', 'twenty', 'dollars']","['never', 'gave', 'man', 'money']",189.85999953746796,191.89686787128448
+6,"['jim', 'took', '20', 'photos']","['jim', 'took', 'time', 'decide', 'take', 'picture']",217.91572326421738,195.41727203130722
+7,"['ron', 'immediately', 'fired', 'insubordination']","['boss', 'commends', 'job', 'well', 'done']",218.45822328329086,158.64547351002693
+8,"['john', 'billy', 'disappointed']","['vegas', 'john', 'billy', 'competed', 'eighty', 'contestants']",213.1075649857521,287.8228005170822
+9,['gave'],"['later', 'passed', 'test']",266.86202013492584,223.80042904615402
+10,"['fish', 'interesting', 'mating', 'habits']","['eventually', 'trish', 'grudgingly', 'came', 'accept', 'nature']",259.75638127326965,279.4143761396408
+11,"['corey', 'didnt', 'mind']","['corey', 'came', 'man', 'car', 'gone']",271.6548637151718,206.86685025691986
+12,"['marcy', 'shrugged', 'shoulders', 'reached', 'tv', 'remote']","['marcy', 'gave', 'boyfriend', 'big', 'kiss', 'said', 'yes']",255.16964673995972,224.17225420475006
+13,"['cara', 'told', 'owner', 'food', 'awful']","['cara', 'decided', 'eat', 'food', 'cart', 'every', 'week']",182.97970581054688,208.46167761087418
+14,"['tony', 'scared', 'ocean']","['tony', 'enjoyed', 'going', 'cruise']",247.15123802423477,217.74796986579895
+15,"['ignacio', 'gave', 'swimming']","['ignacio', 'silver', 'medal']",234.04968881607056,252.232785820961
+16,"['danny', 'decided', 'go', 'sleep']","['prepared', 'start', 'race']",230.9285063147545,196.25628304481506
+17,"['mary', 'disliked', 'pandas']","['mary', 'couldnt', 'wait', 'present', 'report']",239.72014474868774,178.9682979285717
+18,"['ellen', 'pay', 'replacement', 'fee', 'library', 'card']","['ellen', 'ended', 'winning', 'prize']",203.19426161050797,216.03595805168152
+19,"['jesse', 'went', 'park', 'new', 'friend', 'roger']","['jesse', 'picked', 'boys', 'school']",169.06383609771729,211.76542055606842
+20,"['tiffany', 'went', 'work', 'next', 'day']","['pain', 'happy', 'go', 'work']",225.79262655973434,207.14677667617798
+21,"['didnt', 'want', 'phone', 'anymore']","['found', 'phone', 'car']",222.9201717376709,205.6629517674446
+22,"['alice', 'messaged', 'cute', 'guy', 'saw', 'tinder']","['alice', 'called', 'mother', 'apologized', 'profusely']",231.10580956935883,197.3371912240982
+23,"['decides', 'stop', 'watching', 'movies']","['ted', 'continues', 'watch', 'several', 'movies', 'week']",182.71378660202026,234.84248864650726
+24,"['shot', 'vowed', 'never', 'go']","['loved', 'much', 'planned', 'trip', 'next', 'week']",206.03531205654144,254.4956014752388
+25,"['javier', 'decides', 'get', 'smartphone']","['misses', 'old', 'phone']",268.31699895858765,196.99577301740646
+26,"['rachel', 'started', 'moonwalking', 'excitement']","['rachel', 'broke', 'tears']",214.03903263807297,235.203040599823
+27,"['ron', 'started', 'collecting', 'bottle', 'caps']","['ron', 'applauded', 'officers', 'performance']",270.1359643340111,290.770083129406
+28,"['sam', 'happy']","['sam', 'went', 'diet']",220.28558385372162,224.8665782213211
+29,"['larry', 'loved', 'going', 'hospital']","['larry', 'became', 'careful']",172.14307862520218,185.82940810918808
+30,"['broke', 'right', 'away']","['soon', 'boyfriend', 'girlfriend', 'thinking', 'marriage']",265.85469645261765,168.03257885575294
+31,"['sammy', 'coffee']","['worked', 'sammy']",265.10353553295135,261.8582009077072
+32,"['jared', 'decided', 'accelerate']","['jared', 'swerved', 'quickly', 'managed', 'avoid', 'collision']",225.58377408981323,267.76238429546356
+33,"['bobby', 'asked', 'taken', 'restaurant']","['bobby', 'found', 'time', 'passed', 'quickly']",181.63305217027664,208.34275591373444
+34,"['joe', 'dumped', 'pot', 'outside', 'hated', 'soup']","['joe', 'thought', 'working', 'garden', 'ate', 'yummy', 'soup']",208.35172539949417,198.60282081365585
+35,"['fell', 'love', 'aliza', 'married']","['aliza', 'sad', 'never', 'contacted']",221.79807436466217,238.68255704641342
+36,"['lina', 'knew', 'candy', 'canes', 'boring']","['lina', 'felt', 'new', 'appreciation', 'candy', 'canes']",251.61795723438263,236.0633317232132
+37,"['threw', 'kickball', 'closed', 'window']",['friendly'],234.87337642908096,271.26416569948196
+38,"['bev', 'got', 'mail', 'fed', 'fish', 'like', 'every', 'day']","['sunday', 'night', 'bev', 'exhausted']",217.90844357013702,249.88388526439667
+39,"['never', 'cooked']","['became', 'better', 'cook']",245.1447538137436,205.65677857398987
+40,"['walked', '5', 'growling', 'dogs', 'park', 'across', 'town']","['great', 'pizza', 'frank', 'pepes', 'pizza', 'shop']",194.62537693977356,192.7728745341301
+41,"['bernice', 'went', 'europe', 'birthday']","['bernice', 'decided', 'get', 'airplane', 'ticket', 'reserve', 'room']",252.16242253780365,282.5416285395622
+42,"['jim', 'thought', 'crazy', 'left']","['surprised', 'thankful']",194.06923687458038,181.9153419137001
+43,"['randy', 'saw', 'house', 'kept', 'driving', 'didnt', 'come', 'back']","['randy', 'told', 'friend', 'relieved', 'found']",227.85620367527008,184.94473457336426
+44,"['watching', 'brother', 'crash', 'fun']","['felt', 'badly', 'brother']",209.08903813362122,225.4658900499344
+45,"['anna', 'really', 'liked', 'new', 'hairstyle']","['anna', 'felt', 'fashionable', 'left', 'salon']",177.66096699237823,277.4212655425072
+46,"['sarah', 'david', 'went', 'go', 'get', 'dinner', 'right']","['sarah', 'glad', 'able', 'catch']",217.5936564207077,177.6389313340187
+47,"['aj', 'began', 'feel', 'sad']","['aj', 'let', 'sigh', 'relief']",221.57722014188766,260.709380030632
+48,"['joe', 'hated', 'rock', 'music', 'afterwards']","['joe', 'happy', 'shirt', 'fit']",190.32041263580322,179.44110429286957
+49,"['priya', 'decided', 'eat', 'left']","['priya', 'thought', 'food', 'delicious']",195.82832407951355,224.16018790006638
