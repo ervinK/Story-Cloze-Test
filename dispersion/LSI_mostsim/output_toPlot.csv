@@ -1,0 +1,8 @@
+id,noending_sentence,ending_sentence,noending_similarity,ending_similarity
+0,"['joined', 'gang']",['happy'],104.75954908132553,433.53031969070435
+1,"['laverne', 'go', 'friend', 'party']","['brownies', 'delicious', 'laverne', 'eats', 'two']",227.0648945569992,237.51777964830399
+2,"['sarah', 'decided', 'move', 'europe']","['sarah', 'decided', 'preferred', 'home', 'europe']",314.70528250932693,314.62846326828003
+3,"['gina', 'gave', 'cookies', 'away', 'church']","['gina', 'liked', 'cookies', 'much', 'ate', 'one', 'sitting']",291.57053875923157,221.74071550369263
+4,"['ashamed', 'performance']","['proud', 'performance']",106.56593529880047,274.8349739983678
+5,"['next', 'day', 'gave', 'man', 'twenty', 'dollars']","['never', 'gave', 'man', 'money']",251.01849400997162,244.24287715554237
+6,"['jim', 'took', '20', 'photos']","['jim', 'took', 'time', 'decide', 'take', 'picture']",275.41082268953323,229.12460565567017
